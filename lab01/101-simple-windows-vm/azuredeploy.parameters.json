@@ -5,7 +5,7 @@
     "newStorageAccountName": {
       "value": "myStorageAccount"
     },
-        "newVMName": {
+    "newVMName": {
       "type": "string",
     },
     "adminUsername": {
