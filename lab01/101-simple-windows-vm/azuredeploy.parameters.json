@@ -3,19 +3,19 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "add unique value here"
     },
     "newVMName": {
-      "value": "string"
+      "value": "add unique value here"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "add unique value here"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "add unique value here"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "add unique value here"
     }
   }
 }
